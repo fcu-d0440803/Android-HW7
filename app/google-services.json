@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710909044688",
+    "firebase_url": "https://fcu-app.firebaseio.com",
+    "project_id": "fcu-app",
+    "storage_bucket": "fcu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710909044688:android:56efef3ad02a5891",
+        "android_client_info": {
+          "package_name": "iecs.fcu.adoptpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710909044688-s7930lb95jpa32jnmhu65dko431f7ear.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iecs.fcu.adoptpet",
+            "certificate_hash": "462161496944ff50f86048eba9010f16756d17d6"
+          }
+        },
+        {
+          "client_id": "710909044688-3aa9dc6b8d8c2cd5h2b2sqc0rd686323.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyweR7qFB_8cs0eeXDy_w6_lSiU5fsUoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710909044688-3aa9dc6b8d8c2cd5h2b2sqc0rd686323.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
